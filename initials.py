@@ -20,7 +20,7 @@ def main():
     print("...AAY")
 
 # Displaying my initial in a larger format
-    print(".....AAAAAAAA............AAAAAAAA.........YY.........YY.....")
+    print(".....AAAAAAAA............AAAAAAAA..........YY........YY.....")
     print("....AAAAAAAAAA..........AAAAAAAAAA.........YY........YY.....")
     print("...AA........AA........AA........AA.........YY......YY......")
     print("...AA........AA........AA........AA..........YY....YY.......")
